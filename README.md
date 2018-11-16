@@ -1,1 +1,1 @@
-## Welcome To my website (https://fangshulin.github.io)
+## Welcome to my website (https://fangshulin.github.io)
